@@ -1,0 +1,481 @@
+WEBVTT
+
+1
+00:00:00.610 --> 00:00:04.355
+I thought we would take a second and recap a few things from
+
+2
+00:00:04.355 --> 00:00:07.850
+Agile and the applied practice of innovation.
+
+3
+00:00:07.850 --> 00:00:10.620
+If you already know about these things, this won't be long.
+
+4
+00:00:10.620 --> 00:00:12.815
+And if you don't already know about these things,
+
+5
+00:00:12.815 --> 00:00:15.395
+this will give you a brief intro and I think you'll probably just kind of
+
+6
+00:00:15.395 --> 00:00:18.555
+understand them in context as we go through them in the course.
+
+7
+00:00:18.555 --> 00:00:20.690
+But if you want to take a pause at any point,
+
+8
+00:00:20.690 --> 00:00:25.904
+you can find backup resources on them in the resources section of the course;
+
+9
+00:00:25.904 --> 00:00:30.620
+some readings and quick tutorials you can read to get a little more depth if you wanted.
+
+10
+00:00:30.620 --> 00:00:33.900
+The first thing, is the Agile manifesto itself.
+
+11
+00:00:33.900 --> 00:00:38.775
+And this is probably the only thing that everybody would agree is in fact Agile.
+
+12
+00:00:38.775 --> 00:00:42.590
+And this was created in 2001 and it basically said we think
+
+13
+00:00:42.590 --> 00:00:47.270
+that individual interactions are more important than processes or tools.
+
+14
+00:00:47.270 --> 00:00:50.390
+This is important, so you don't kind of over Agile your Agile.
+
+15
+00:00:50.390 --> 00:00:56.345
+And we think working software is more important than comprehensive documentation.
+
+16
+00:00:56.345 --> 00:01:00.525
+By documentation they don't mean documentation you have to provide to the user,
+
+17
+00:01:00.525 --> 00:01:03.430
+although hopefully that's at a minimum because your software is really usable.
+
+18
+00:01:03.430 --> 00:01:09.555
+What they mean is big specifications and requirements documents that you do up front.
+
+19
+00:01:09.555 --> 00:01:13.985
+And we think that collaboration is more important than negotiation.
+
+20
+00:01:13.985 --> 00:01:16.700
+By this they mean really just the negotiation between individuals.
+
+21
+00:01:16.700 --> 00:01:18.950
+So, "Hey when can you do that?" "Oh, by Friday."
+
+22
+00:01:18.950 --> 00:01:21.725
+"Okay, you've contracted with me you are going to do it by Friday."
+
+23
+00:01:21.725 --> 00:01:24.200
+And they're not saying that all this stuff over here on the right
+
+24
+00:01:24.200 --> 00:01:26.265
+is completely always bad and never do it.
+
+25
+00:01:26.265 --> 00:01:28.220
+They're just saying you know on a relative basis,
+
+26
+00:01:28.220 --> 00:01:31.017
+these things on the left here are a lot more important.
+
+27
+00:01:31.017 --> 00:01:36.425
+And finally, following a plan is less important than responding to change.
+
+28
+00:01:36.425 --> 00:01:38.900
+And this is probably the most important thing and it's
+
+29
+00:01:38.900 --> 00:01:41.810
+spawn lots of other thinking about innovation like,
+
+30
+00:01:41.810 --> 00:01:45.005
+for example, lean startup if you've heard of that.
+
+31
+00:01:45.005 --> 00:01:49.400
+There's references on this tutorial Agile just the basics in the resources section,
+
+32
+00:01:49.400 --> 00:01:53.720
+if you want more about kind of what's Agile and what does it really mean?
+
+33
+00:01:53.720 --> 00:01:56.870
+We're going to use this venture design process as
+
+34
+00:01:56.870 --> 00:02:00.575
+a way to just think about the sequencing and
+
+35
+00:02:00.575 --> 00:02:04.820
+interrelationships between a few really key innovation practices
+
+36
+00:02:04.820 --> 00:02:09.525
+that are widely used in delivering good outcomes for teams that are doing digital.
+
+37
+00:02:09.525 --> 00:02:13.310
+And the reason for this sequence is basically that as you go through this process,
+
+38
+00:02:13.310 --> 00:02:16.310
+your options narrow and it helps you think
+
+39
+00:02:16.310 --> 00:02:20.382
+about when should we kind of be exploring and thinking about a lot of possibilities,
+
+40
+00:02:20.382 --> 00:02:24.380
+and when do we really need to zero in on something that is specifically right or
+
+41
+00:02:24.380 --> 00:02:26.210
+specifically wrong so that we don't just build
+
+42
+00:02:26.210 --> 00:02:28.520
+a lot of junk and hope that the user finds what they want?
+
+43
+00:02:28.520 --> 00:02:32.150
+Because that's not a good way to build stuff or deploy software.
+
+44
+00:02:32.150 --> 00:02:34.580
+That results in a lot of extra expense and
+
+45
+00:02:34.580 --> 00:02:37.115
+very bad outcomes most of the time for the user.
+
+46
+00:02:37.115 --> 00:02:40.310
+And then, of course, cost is going to escalate as we go through this process.
+
+47
+00:02:40.310 --> 00:02:44.500
+So, for example, it's a lot more expensive to go out and talk to some subjects,
+
+48
+00:02:44.500 --> 00:02:46.440
+some users about what's on their A list,
+
+49
+00:02:46.440 --> 00:02:48.530
+what problems are important to them and then
+
+50
+00:02:48.530 --> 00:02:50.690
+to test whether our proposition is going to be
+
+51
+00:02:50.690 --> 00:02:55.190
+valuable enough for them and then create good user stories and good prototypes.
+
+52
+00:02:55.190 --> 00:02:58.380
+So, really think about what we want to do for the user.
+
+53
+00:02:58.380 --> 00:03:01.190
+All that stuff is of course less expensive than building
+
+54
+00:03:01.190 --> 00:03:06.135
+actual software or deploying software and getting it up and running and maintaining it.
+
+55
+00:03:06.135 --> 00:03:10.205
+One thing you saw in the beginning there was these problems scenarios and alternatives.
+
+56
+00:03:10.205 --> 00:03:14.120
+And the idea here is that whenever we're going to do something for the user,
+
+57
+00:03:14.120 --> 00:03:16.479
+we should understand the problem scenario,
+
+58
+00:03:16.479 --> 00:03:21.280
+the underlying job or desire that we're going to deliver on.
+
+59
+00:03:21.280 --> 00:03:25.910
+And we should understand what alternatives they have today because our proposition,
+
+60
+00:03:25.910 --> 00:03:27.200
+whatever we're going to do,
+
+61
+00:03:27.200 --> 00:03:30.020
+is got to be better enough than
+
+62
+00:03:30.020 --> 00:03:35.180
+the current alternatives at solving this problem that it's actually worth doing.
+
+63
+00:03:35.180 --> 00:03:37.580
+For example, let's say we're building
+
+64
+00:03:37.580 --> 00:03:40.490
+some IT software for people
+
+65
+00:03:40.490 --> 00:03:44.765
+that repair heating and air conditioning systems to go out and look up parts.
+
+66
+00:03:44.765 --> 00:03:49.505
+Well, the underlying problem scenario would be finding parts availability and pricing.
+
+67
+00:03:49.505 --> 00:03:51.800
+And their current alternative is that they have to call
+
+68
+00:03:51.800 --> 00:03:54.200
+the dispatch or the central office and
+
+69
+00:03:54.200 --> 00:03:56.420
+wait and get a price and a timing
+
+70
+00:03:56.420 --> 00:03:59.240
+back while their customers are waiting and they're figuring out where they should go,
+
+71
+00:03:59.240 --> 00:04:01.255
+should they go to the next job or should they stay?
+
+72
+00:04:01.255 --> 00:04:05.180
+And our proposition is if we build a piece of software where they
+
+73
+00:04:05.180 --> 00:04:09.290
+could self-service to look up parts availability and pricing,
+
+74
+00:04:09.290 --> 00:04:11.240
+then they would engage with it and use it,
+
+75
+00:04:11.240 --> 00:04:13.850
+and it would deliver better outcomes for the customer or
+
+76
+00:04:13.850 --> 00:04:17.086
+higher customer satisfaction and lower times on site.
+
+77
+00:04:17.086 --> 00:04:20.180
+And so, that is an example of how
+
+78
+00:04:20.180 --> 00:04:24.325
+we would structure these things and you'll see a few examples of that in the course.
+
+79
+00:04:24.325 --> 00:04:27.680
+Next, we look at really basically the practice of lean startups.
+
+80
+00:04:27.680 --> 00:04:31.730
+So, how do we structure those value propositions and think about ways to
+
+81
+00:04:31.730 --> 00:04:36.920
+test whether the customer is adequately motivated or not to have our proposition?
+
+82
+00:04:36.920 --> 00:04:40.830
+And then finally, we look at user stories.
+
+83
+00:04:40.830 --> 00:04:43.545
+And you've probably used these if you've done Agile.
+
+84
+00:04:43.545 --> 00:04:46.305
+They have these three clauses as a persona.
+
+85
+00:04:46.305 --> 00:04:48.920
+So, some user that we've seen and we can think of
+
+86
+00:04:48.920 --> 00:04:51.770
+five examples and we've hopefully spoken to them and asked how
+
+87
+00:04:51.770 --> 00:04:54.230
+their job is and what are the top five hardest things
+
+88
+00:04:54.230 --> 00:04:58.040
+about doing accounting here or keeping your CRM up to date?
+
+89
+00:04:58.040 --> 00:05:02.410
+And we're going to help them do something so they can derive a reward.
+
+90
+00:05:02.410 --> 00:05:07.255
+And what's really important about this last clause here is this is a testable reward.
+
+91
+00:05:07.255 --> 00:05:08.595
+So, we have a user story.
+
+92
+00:05:08.595 --> 00:05:09.873
+As an H-back technician,
+
+93
+00:05:09.873 --> 00:05:12.150
+I want to look up parts availability and
+
+94
+00:05:12.150 --> 00:05:15.715
+pricing so that I can figure out my next steps on the job.
+
+95
+00:05:15.715 --> 00:05:19.610
+We could put a working prototype in front of them where they find that parts,
+
+96
+00:05:19.610 --> 00:05:21.000
+see it's availability and pricing,
+
+97
+00:05:21.000 --> 00:05:22.170
+and we can ask them, "Okay,
+
+98
+00:05:22.170 --> 00:05:24.105
+let's say you have to go tell the customer
+
+99
+00:05:24.105 --> 00:05:27.180
+the price and the timing on this part, what would you tell them?"
+
+100
+00:05:27.180 --> 00:05:29.625
+And if they know what to tell the customer from what they're seeing,
+
+101
+00:05:29.625 --> 00:05:32.670
+then that's a positive outcome, a pass.
+
+102
+00:05:32.670 --> 00:05:34.620
+And if they can't figure that out, then it's a fail.
+
+103
+00:05:34.620 --> 00:05:36.680
+It means it's not usable enough.
+
+104
+00:05:36.680 --> 00:05:39.090
+And here's another example of a user story just to
+
+105
+00:05:39.090 --> 00:05:41.505
+kind of texture this out. I send the salesperson.
+
+106
+00:05:41.505 --> 00:05:44.475
+I want to update the lead to indicate I visited them
+
+107
+00:05:44.475 --> 00:05:48.800
+so I know the rest of the team is up to date on the account.
+
+108
+00:05:48.800 --> 00:05:53.010
+And so that is the way that we will
+
+109
+00:05:53.010 --> 00:05:56.475
+go through and kind of think about these innovation practices.
+
+110
+00:05:56.475 --> 00:06:01.080
+Another thing I'll call attention to is the relationship between user stories,
+
+111
+00:06:01.080 --> 00:06:02.840
+prototypes and usability testing.
+
+112
+00:06:02.840 --> 00:06:06.495
+This is the user story is really important because as we saw,
+
+113
+00:06:06.495 --> 00:06:09.330
+if we have a nice clear testable reward
+
+114
+00:06:09.330 --> 00:06:12.030
+that tells us what patterns we should look out for
+
+115
+00:06:12.030 --> 00:06:15.420
+prototyping and it tells us what things we should be
+
+116
+00:06:15.420 --> 00:06:20.010
+looking for as a pass fail criteria for usability testing.
+
+117
+00:06:20.010 --> 00:06:24.595
+Those are the few innovation practices we'll be referencing throughout the course.
+
+118
+00:06:24.595 --> 00:06:25.665
+If you want more depth on them,
+
+119
+00:06:25.665 --> 00:06:27.235
+check out the resources.
+
+120
+00:06:27.235 --> 00:06:31.620
+And otherwise, we're going to go onto the next thing and get our hands dirty.
