@@ -1,0 +1,393 @@
+WEBVTT
+
+1
+00:00:00.931 --> 00:00:04.649
+I mentioned in the introduction
+that we're going to look at
+
+2
+00:00:04.649 --> 00:00:09.141
+using the business model canvas to
+frame the business' strategy and
+
+3
+00:00:09.141 --> 00:00:13.140
+anchor our user stories and
+prototypes back to that.
+
+4
+00:00:13.140 --> 00:00:18.170
+Now, you may be thinking, hey, my job is
+just to implement an IT project on time
+
+5
+00:00:18.170 --> 00:00:22.510
+and on budget, they don't want me to make
+strategy and we're not saying that here.
+
+6
+00:00:22.510 --> 00:00:26.570
+We're just saying we're going to use this
+particular shorthand to make sure we
+
+7
+00:00:26.570 --> 00:00:31.630
+understand the company's strategy and
+key facets of the operation,
+
+8
+00:00:31.630 --> 00:00:36.610
+so that we can dovetail
+the enterprise software back to that.
+
+9
+00:00:36.610 --> 00:00:41.560
+The reality is, if you're running
+a residential DSL internet business
+
+10
+00:00:41.560 --> 00:00:46.850
+versus you're running a private bank for
+wealthy individuals,
+
+11
+00:00:46.850 --> 00:00:50.209
+you're going to need enterprise software
+setups that are extremely different.
+
+12
+00:00:51.420 --> 00:00:56.550
+Vendors do not necessarily do a really
+great job of giving you a play book on
+
+13
+00:00:56.550 --> 00:00:59.180
+how to distinguish these
+different situations and
+
+14
+00:00:59.180 --> 00:01:03.260
+what you ought to do with their software
+to make it work well in those situations.
+
+15
+00:01:03.260 --> 00:01:06.400
+And that's what we're going to cover here,
+you're going to learn how to do that.
+
+16
+00:01:06.400 --> 00:01:09.090
+And once you become fluent
+in these techniques,
+
+17
+00:01:09.090 --> 00:01:11.810
+this module is called the 20
+minute strategy brief.
+
+18
+00:01:11.810 --> 00:01:15.390
+You will be able to sit down and
+pencil out a strategy with a client,
+
+19
+00:01:15.390 --> 00:01:19.090
+internal stakeholder,
+whatever in around 20 minutes.
+
+20
+00:01:19.090 --> 00:01:23.700
+This will help you have some structure
+to understand what's valuable.
+
+21
+00:01:23.700 --> 00:01:28.250
+It will give you nice clear
+linkages to success criteria.
+
+22
+00:01:28.250 --> 00:01:33.620
+And it allow you to drive forward and
+backward to and from discussable designs
+
+23
+00:01:33.620 --> 00:01:37.790
+that are clearly link to the company's
+business model and their strategy.
+
+24
+00:01:39.362 --> 00:01:42.270
+Clients, internal stakeholders
+nobody wants to pay for
+
+25
+00:01:42.270 --> 00:01:45.190
+strategy, often they don't
+want to even pay for design.
+
+26
+00:01:45.190 --> 00:01:46.860
+They think that it's waste of time,
+
+27
+00:01:46.860 --> 00:01:50.480
+you should just get to the real
+work of implementing the software.
+
+28
+00:01:50.480 --> 00:01:54.600
+But as we've seen, a lot of these
+implementations end up a disaster.
+
+29
+00:01:54.600 --> 00:01:58.500
+In fact, most of them are a failure
+in the eyes of key stakeholders.
+
+30
+00:01:58.500 --> 00:02:00.219
+And so that's pretty important to avoid.
+
+31
+00:02:01.270 --> 00:02:03.900
+So, we're going to keep
+this extremely relevant,
+
+32
+00:02:03.900 --> 00:02:08.230
+extremely focused around our key goals and
+you will find that this is something that
+
+33
+00:02:08.230 --> 00:02:12.010
+you can do at the very beginning of
+a project without making a big stink.
+
+34
+00:02:12.010 --> 00:02:15.120
+If you are an external vendor of
+some sort, enterprise software or
+
+35
+00:02:15.120 --> 00:02:19.029
+consultant you will be able to do it
+very easily in the presales process.
+
+36
+00:02:20.100 --> 00:02:23.290
+And I think that you'll find that your
+collaborators, your stakeholders,
+
+37
+00:02:23.290 --> 00:02:24.560
+your bosses are going to thank you.
+
+38
+00:02:25.770 --> 00:02:28.790
+So we're going to use this item,
+the business model canvas.
+
+39
+00:02:28.790 --> 00:02:33.700
+This was created by a man named Alex
+Osterwalder and a team of collaborators,
+
+40
+00:02:33.700 --> 00:02:38.400
+and the nice thing about it is that
+it's just a really useful shorthand for
+
+41
+00:02:38.400 --> 00:02:42.540
+thinking through a business model and
+making that very visible.
+
+42
+00:02:42.540 --> 00:02:45.110
+I think that really in
+my experience with it,
+
+43
+00:02:45.110 --> 00:02:48.670
+these are the three most important
+questions that you want to ask about
+
+44
+00:02:48.670 --> 00:02:51.400
+the business model to
+thoughtfully populate it.
+
+45
+00:02:51.400 --> 00:02:56.190
+And that's what we're going to go
+through here in the next few videos.
+
+46
+00:02:56.190 --> 00:03:00.542
+Before you do that, my recommendation is
+you pencil out one of these positioning
+
+47
+00:03:00.542 --> 00:03:02.980
+statements for
+your company or your client.
+
+48
+00:03:02.980 --> 00:03:07.825
+This is a good way to make sure you've
+thought through the basics of what
+
+49
+00:03:07.825 --> 00:03:10.569
+the business is, who it does work for and
+
+50
+00:03:10.569 --> 00:03:14.800
+what's it's primary point
+of differentiation.
+
+51
+00:03:14.800 --> 00:03:19.160
+And these are just things that you'll
+want to kind of have on hand before we
+
+52
+00:03:19.160 --> 00:03:21.940
+dive in too deeply to
+the business model canvas.
+
+53
+00:03:21.940 --> 00:03:24.160
+So even if you're not
+positive if it's right,
+
+54
+00:03:24.160 --> 00:03:25.900
+just try penciling it out real quick.
+
+55
+00:03:27.020 --> 00:03:32.500
+Here's an example for Home Depot, this is
+available in the lesson materials as well.
+
+56
+00:03:34.030 --> 00:03:37.320
+And here's an example for
+United Children's Theater.
+
+57
+00:03:37.320 --> 00:03:42.022
+This is a non-profit organization that
+provides outsource arts education
+
+58
+00:03:42.022 --> 00:03:44.525
+to students in public schools K-12.
+
+59
+00:03:44.525 --> 00:03:48.280
+So it's an after-school program for
+learning theater and the arts.
+
+60
+00:03:49.754 --> 00:03:54.695
+We're going to go through this in three
+parts as we move through the next
+
+61
+00:03:54.695 --> 00:03:55.640
+few videos.
+
+62
+00:03:55.640 --> 00:03:58.380
+The first is who are these buyers and
+
+63
+00:03:58.380 --> 00:04:01.550
+why do they buy stuff from this company or
+use stuff?
+
+64
+00:04:02.570 --> 00:04:05.060
+What is the end-to-end
+customer relationship?
+
+65
+00:04:05.060 --> 00:04:09.520
+So, how does the customer find out about
+this product, buy it, get it, use it?
+
+66
+00:04:09.520 --> 00:04:11.663
+Keep buying it,
+tell other people about it.
+
+67
+00:04:11.663 --> 00:04:12.930
+How does all that work?
+
+68
+00:04:12.930 --> 00:04:17.261
+because it turns out, those touch points,
+even if we don't directly deal with CRM or
+
+69
+00:04:17.261 --> 00:04:21.785
+Customer Facing Software, understanding
+those touch points is a pretty important
+
+70
+00:04:21.785 --> 00:04:25.544
+part of understanding what kind of
+business we're working with, and
+
+71
+00:04:25.544 --> 00:04:26.970
+what's important to it.
+
+72
+00:04:28.209 --> 00:04:32.442
+And then we are going to close with
+the view of what are the really uniquely
+
+73
+00:04:32.442 --> 00:04:37.328
+strategically important activities that
+the company undertakes to execute its
+
+74
+00:04:37.328 --> 00:04:38.540
+strategy?
+
+75
+00:04:38.540 --> 00:04:41.755
+And those go in this portion
+of the Business Model Canvas.
+
+76
+00:04:43.335 --> 00:04:44.865
+Over the next few videos here,
+
+77
+00:04:44.865 --> 00:04:47.015
+we're going to work through
+those three questions.
+
+78
+00:04:47.015 --> 00:04:51.260
+And at the end of this process you'll be
+able to sketch out a business model for
+
+79
+00:04:51.260 --> 00:04:53.611
+your client or employer in 20 minutes and
+
+80
+00:04:53.611 --> 00:04:57.204
+link that forward to thoughtful
+prototypes, user stories, and
+
+81
+00:04:57.204 --> 00:05:00.692
+ultimately valuable enterprise
+software implementations.

@@ -1,0 +1,69 @@
+I mentioned in the introduction
+that we're going to look at using the business model canvas to
+frame the business' strategy and anchor our user stories and
+prototypes back to that. Now, you may be thinking, hey, my job is
+just to implement an IT project on time and on budget, they don't want me to make
+strategy and we're not saying that here. We're just saying we're going to use this
+particular shorthand to make sure we understand the company's strategy and
+key facets of the operation, so that we can dovetail
+the enterprise software back to that. The reality is, if you're running
+a residential DSL internet business versus you're running a private bank for
+wealthy individuals, you're going to need enterprise software
+setups that are extremely different. Vendors do not necessarily do a really
+great job of giving you a play book on how to distinguish these
+different situations and what you ought to do with their software
+to make it work well in those situations. And that's what we're going to cover here,
+you're going to learn how to do that. And once you become fluent
+in these techniques, this module is called the 20
+minute strategy brief. You will be able to sit down and
+pencil out a strategy with a client, internal stakeholder,
+whatever in around 20 minutes. This will help you have some structure
+to understand what's valuable. It will give you nice clear
+linkages to success criteria. And it allow you to drive forward and
+backward to and from discussable designs that are clearly link to the company's
+business model and their strategy. Clients, internal stakeholders
+nobody wants to pay for strategy, often they don't
+want to even pay for design. They think that it's waste of time, you should just get to the real
+work of implementing the software. But as we've seen, a lot of these
+implementations end up a disaster. In fact, most of them are a failure
+in the eyes of key stakeholders. And so that's pretty important to avoid. So, we're going to keep
+this extremely relevant, extremely focused around our key goals and
+you will find that this is something that you can do at the very beginning of
+a project without making a big stink. If you are an external vendor of
+some sort, enterprise software or consultant you will be able to do it
+very easily in the presales process. And I think that you'll find that your
+collaborators, your stakeholders, your bosses are going to thank you. So we're going to use this item,
+the business model canvas. This was created by a man named Alex
+Osterwalder and a team of collaborators, and the nice thing about it is that
+it's just a really useful shorthand for thinking through a business model and
+making that very visible. I think that really in
+my experience with it, these are the three most important
+questions that you want to ask about the business model to
+thoughtfully populate it. And that's what we're going to go
+through here in the next few videos. Before you do that, my recommendation is
+you pencil out one of these positioning statements for
+your company or your client. This is a good way to make sure you've
+thought through the basics of what the business is, who it does work for and what's it's primary point
+of differentiation. And these are just things that you'll
+want to kind of have on hand before we dive in too deeply to
+the business model canvas. So even if you're not
+positive if it's right, just try penciling it out real quick. Here's an example for Home Depot, this is
+available in the lesson materials as well. And here's an example for
+United Children's Theater. This is a non-profit organization that
+provides outsource arts education to students in public schools K-12. So it's an after-school program for
+learning theater and the arts. We're going to go through this in three
+parts as we move through the next few videos. The first is who are these buyers and why do they buy stuff from this company or
+use stuff? What is the end-to-end
+customer relationship? So, how does the customer find out about
+this product, buy it, get it, use it? Keep buying it,
+tell other people about it. How does all that work? because it turns out, those touch points,
+even if we don't directly deal with CRM or Customer Facing Software, understanding
+those touch points is a pretty important part of understanding what kind of
+business we're working with, and what's important to it. And then we are going to close with
+the view of what are the really uniquely strategically important activities that
+the company undertakes to execute its strategy? And those go in this portion
+of the Business Model Canvas. Over the next few videos here, we're going to work through
+those three questions. And at the end of this process you'll be
+able to sketch out a business model for your client or employer in 20 minutes and link that forward to thoughtful
+prototypes, user stories, and ultimately valuable enterprise
+software implementations.
