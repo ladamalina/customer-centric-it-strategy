@@ -1,0 +1,61 @@
+In the last video, we introduced
+the business model canvas as a tool. To make sure you're anchored in what's
+really valuable and important to the company where you're going to do
+your IT enterprise software project. In this video, we're going to answer the first of three
+really critical questions that we need to answer to be thoughtful about what
+we put in this business model canvas. This is our key tool, this will
+help us drive to more meaningful, better validated problem scenarios. So we don't create enterprise
+software that no one wants and no one finds valuable. This question, more than anything else,
+is really the independent variable. And the driver for the contents of
+the rest of the business model. Here's an example of what this might look
+like for Home Depot, you can see here, different customer segments. So these might be themselves personas, or sets of personas about people
+that shop at Home Depot. And here are some made up by me, and
+I am not an expert on hardware retail. Value propositions that seem like they're
+important for such an organization. And these arrows that you see here,
+like the red arrow, the gray arrow. These say that, okay, for example,
+contractors find, hypothetically, this value proposition and
+this value proposition, most important. And basically, this is what we want
+to arrive at by the end of the video. So, take a minute, and think about
+the customer segments for your business, are there multiple parts? Like, for example, eBay has buyers and
+sellers, those are at least two segments. What are they, and
+take a minute and write those down. Here's what those looks like for
+United Children's Theater. So basically you have children
+are really the end users. But they, of course,
+arrange these things and participate in them with the assistance
+and guidance of their parents. Teachers and administrators of the public
+schools guide the students to go ahead and enroll in these programs,
+if they're interested. And they manage the logistics, for
+instance, of a school coming and seeing a play. And then finally, these are non profit and
+they have donors who help support them. Now we look at value proposition. So what are the really, really compelling
+reasons that a customer buys your product, uses your service, whatever it is? What are they getting out of it that's
+important to them and uniquely compelling? Take a minute and
+think about that for your project. And remember, if you're not sure, the best
+thing to do here is not to hand a blank business model canvas to your boss,
+or your manager. But I would say, in most cases,
+it's to sketch out a bunch of ideas for them to react to. And make it easy for
+them to help you edit these things. So even if you're not positive about
+these, and it's not your job to define this, my advice is,
+take a few minutes, sketch it out. It'll make it quicker for
+you to get to a nice, quick, workable answer on these things that
+will help you proceed with your project. Here's what these look like for
+United Children's Theater. It's got to be affordable,
+they're having an outsource arts function, is a great thing for these folks. Cultivating the arts locally, and
+improving the quality of education for low income pupils is something
+that's important for donors. And this is, of course,
+important for parents and the children benefit from it as well. And here's what this would look like
+sketched out on the business model canvas. These arrows, just like you saw with the
+Home Depot example, are linking segments and the value propositions that
+are particularly compelling to them. We'll show you this in
+some of the examples. But I recommend actually sitting down with
+a paper version of this canvas first, sketching these things out. I'm also going to show you
+a Google Doc that you can use, if you want to have something that's
+editable, and sharable, and presentable. But it's a little more
+cumbersome to work with, and I think you'll find it easiest to
+sketch this out on a piece of paper. Or a printed version of
+the business model canvas, which we've supplied in
+the lesson materials. So here, we've see how to look at this really key
+relationship between these two things. And this thing that drives
+the rest of the business model. In the next two videos,
+we'll look at the customer journey, and we'll pencil these things out here. And then we'll look at what's
+strategically important to the business and we'll do these items here,
+key activities and key resources.
