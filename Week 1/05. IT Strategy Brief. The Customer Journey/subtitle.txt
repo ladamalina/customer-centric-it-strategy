@@ -1,0 +1,108 @@
+In the last video, we looked at these
+two items here, Customer Segments and Value Propositions. And how does the interchange of
+these two things drive the business. Here, we are going to look at
+the end-to-end customer experience, and what that means for
+the relationships and channels, that the business has with the customer
+over the course of that journey. The way I like to think through that,
+is with this framework that you see here. So first we ask,
+how do we get the customer's attention? How do they even know we exist? How do we break through the noise floor? Then, we look at what's
+interesting about our proposition. What problem that we know that they have,
+be that a job that they do, a desire, a habit. What is it that we engage them with,
+what interests them. And if we want them to do anything
+of any real material importance, there's some emotional resonance
+to what we're offering them, and there's a desire that they have
+that's propelling them to action. Here, we're looking at, what is
+the absolute minimum set of actions required for the customer to
+get to the next step with us? And that's something we want to
+be especially thoughtful about, as we design systems. Then, we look at how does
+the customer get onboarded. How do we make them a regular,
+habitual user of our product, and how do we know if that's working? And then finally, we kind of look
+at everything beyond that and the customer's recurring use
+of our product with retention. And how do we deepen their
+involvement with our product, and how do we get them talking
+positively about it to others? Now again, even if your software
+isn't directly touching the customer. These things are almost certainly going to
+have major implications for it, and it's important for you to be at least
+generally aware of how they work. Here is a storyboard for AIDAOR,
+the framework we just looked at, and United Children's Theater. In the attention step here,
+mom A talks with mom B, who has her child in a program
+at United Children's Theater. And they talk about how the mommy's
+son doesn't want to do soccer, so maybe children's theory
+would be a good fit. Mom B follows up with mom
+A through an email, and a link to some information about United Children's
+Theater, that engages her interest. Mom A doesn't want her son,
+Carlos, in trouble or idling around the house, so she had
+this real desire to get him out and get him associated with good, thoughtful
+kids in some constructive activity. Action, while she goes to
+United Children's Theater site and it's clear to her what she gets,
+what she pays for, whether there's financial aid
+available and when she starts. And then the next step here is Onboarding,
+and what happens on the first day of school? How does Carlos get started
+with the right program. And then Retention, we look at the use
+of email, a Facebook group and so forth. Carlos, let's say he
+completes a successful year at United Children's Theater. What's in store for him next year? And how does he know if wants to do it and
+if so, what we do? All that would fall into
+the retention basket. So think through this and
+I highly recommend the storyboard. And how does this work for
+your key customer relationships, and your key channels? That's what we'll look at next. Another thing you consider doing,
+if you're interested in this, is you've learned about Think,
+See, Feel, Do. How do each of those work at
+every step of this process? That's something we call a journey map,
+and it's a really good way to think
+through customer experience, if you think that level of
+depth would help your project. Now, one of the things you may have
+realized as you went through this customer journey, using the storyboard, using the
+IDA framework, is that the channels and the types of relationships you
+want to have with customer, vary over the course of that. So relationships are ways that
+we interact with the customer. There's lots of different possibilities. The kind of on one end of the spectrum
+here is residential Gmail for instance. If you have a problem, you can search for
+it on the forums and ask people, but it's pretty much self service. Whereas dedicated personal service for
+instance, if you have an insurance agents who's a specific person, you can
+call them up and ask them questions. That's kind of the other
+end of the spectrum, and there's lots of things in between. And channels are the way we
+deliver that relationship, and we talked about the AIDAOR journey and
+Promotion, Sales, Service. The channel that you use to deliver
+the relationship you want, may vary over the course of these different types of
+activities, over that IDAOR journey. So let's take a minute and
+think about customer relationships for United Children's Theater. And I'll reveal that in a minute, but
+now when you think about your own project. And what are the types of customer
+relationships that your business or business you are working with,
+has with their customers and how do they change over the course of
+that customer journey that we looked at. Okay, here's what that looks like for
+United Children's Theater. They use a mix of online community
+like the two mom's following up, the way you saw that. Personal Service and this happens
+both through the center itself, as well as for
+instance mom A meeting mom B. The parents and the parents auxiliary,
+deliver personalized relationships and word of mouth organically for
+United Children's Theater. And that's a really important
+part of their business model and what makes the business work. So we want to make sure our enterprise
+software doesn't break that for instance, and then there's
+direct personal service as well. So for instance your child's a teacher,
+you know that teacher, you can talk with them. And then the channels are the ways
+that we deliver these relationships. So what are the channels that
+united children's theater uses? I'll show you that in a minute,
+but think about the channels that your business uses and
+how those vary across the journey. Take a second and
+make a few notes on that. Okay, here is all of this for
+United Children's Theater. The Parent's Auxiliary does
+a lot of Promotion work, and it's really parent to parent kid to kid,
+the promotion. And the Sales, if you will, is Direct. The teachers and administrators
+at United Children's Theater, will come to local schools and
+talk about their program. And the teachers and administrators
+sort of do these sales if you will, by discussing the program
+with their students. And then Service, they use the Parent's
+Auxiliary and they use Facebook very heavily, to help parents answer each
+other's questions about what's going on. Here is how this looks in
+the business model Canvas. So I've written the customer relationships
+here and the channel's here. And I made some notes about what
+relationships the different segments have. Now that may or may not be pertinent
+to what you have going on. The nice thing about the canvas is that,
+it makes it really easy to sketch and sort of highlight whatever interrelationships
+you think are most important. And so I would encourage you to make these
+notes for the business you're working on. You can also take a note
+about revenue streams and perhaps, how these relate
+to those if you'd like. And I would finish filling these out, and think about what are the key
+inner relationships. In the next video, we're going to move
+over to this part of the canvas and look at the activities that your
+business executes that are you uniquely, strategically important to delivering
+all these things that we've talked about so far.
